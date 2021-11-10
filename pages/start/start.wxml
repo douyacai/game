@@ -1,0 +1,16 @@
+<!--pages/start/start.wxml-->
+<view class="container">
+  <image src="background.png"></image>
+  <view class="Logo">
+    <image src="logo.png"></image>
+  </view>
+  <view class = "Button">
+    <button plain="true" type="default" size="default">开始游戏
+    </button>
+    <button plain="true" type="default" size="default">游戏设置
+    </button>
+    <button plain="true" type="default" size="default">退出游戏
+    </button>  
+  </view>
+</view>
+

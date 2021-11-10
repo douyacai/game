@@ -1,0 +1,29 @@
+.container{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.container image{
+  position: absolute;
+  width: 100%;
+  height: 276px;
+}
+
+.Logo{
+display:flex;
+height: 140px;
+justify-content: center;
+align-items:center;
+}
+.Logo image{ 
+ width:140rpx;
+ height:124rpx;
+ border-radius: 32px;
+}
+
+.Button{
+  margin-bottom: auto;
+  color: red;
+}
