@@ -1,0 +1,40 @@
+.navi{
+    color:rgb(255, 255, 255);
+    background-image: url(https://e.im5i.com/2021/11/14/UsREG0.jpg);
+    text-align: left;
+} 
+
+.whole{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-image: url(https://e.im5i.com/2021/11/14/UsREG0.jpg);
+    display: flex;
+}
+
+.baoshi{
+    width: 126.5px;
+    height: 171.7px;
+    margin-left: 5px;
+    margin-top: 10px;
+    color: rgb(134, 150, 238);
+    text-align:center;
+
+}
+.baoshi image{
+    width: 100%;
+    height: 90%;
+}
+
+.yishu{
+    width: 126.5px;
+    height: 171.7px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color:rgb(134, 150, 238);
+    text-align:center;
+}
+.yishu image{
+    width: 100%;
+    height: 90%;
+}

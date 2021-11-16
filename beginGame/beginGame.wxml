@@ -1,0 +1,23 @@
+<view class="navi">
+    <navigator class="back" url="/pages/start/start">
+    返回
+    </navigator>
+</view>
+
+<view class="whole">
+    <view class="baoshi" bindtap='goTo_baoshi'>
+        <image class="" src="https://e.im5i.com/2021/11/12/UsytDx.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+        璀璨宝石
+    </view>
+    <view class="yishu" bindtap='goTo_yishu'>
+        <image class="" src="https://e.im5i.com/2021/11/12/UsyvhQ.jpg" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+        现代艺术  
+    </view>
+    <view class="plus">
+        
+    </view>
+      
+      
+      
+</view>
+  
